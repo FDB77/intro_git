@@ -1,3 +1,5 @@
 gitの練習
-変更をkuwaeru
-		
+基本的なワークフローを学びます
+・git add
+・git commit
+	
