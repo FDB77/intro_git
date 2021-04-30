@@ -6,3 +6,4 @@ gitの練習
 
 変更
 
+git diff
